@@ -32,7 +32,7 @@ This Project Created By Mohmamamdali Mirhamed Rooy on 2011
 
 # Project licensed by MIT license :
 
-Copyright (c) 2017 MohammadAli Mirhamed Rooy
+Copyright (c) may-2011 MohammadAli Mirhamed Rooy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
